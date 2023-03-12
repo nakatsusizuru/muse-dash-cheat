@@ -1,0 +1,9 @@
+F:\MuseDashCheat2\MuseDash修改器\bin\Release\MuseDash修改器.exe
+F:\MuseDashCheat2\MuseDash修改器\bin\Release\MuseDash修改器.pdb
+F:\MuseDashCheat2\MuseDash修改器\obj\Release\MuseDash修改器.csproj.AssemblyReference.cache
+F:\MuseDashCheat2\MuseDash修改器\obj\Release\MuseDash修改器.Form1.resources
+F:\MuseDashCheat2\MuseDash修改器\obj\Release\MuseDash修改器.Properties.Resources.resources
+F:\MuseDashCheat2\MuseDash修改器\obj\Release\MuseDash修改器.csproj.GenerateResource.cache
+F:\MuseDashCheat2\MuseDash修改器\obj\Release\MuseDash修改器.csproj.CoreCompileInputs.cache
+F:\MuseDashCheat2\MuseDash修改器\obj\Release\MuseDash修改器.exe
+F:\MuseDashCheat2\MuseDash修改器\obj\Release\MuseDash修改器.pdb
